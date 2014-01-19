@@ -1,0 +1,5 @@
+BOARD = telosb
+
+PORT = /dev/tty.usbserial*
+
+HEADER_SEARCH_PATHS = $(RIOT)/**
